@@ -28,8 +28,8 @@ const ContactSection = ({id}) => {
             <div className="site-wrapper">
               <div className="site-header">Site</div>
               <div className="credit-section">
-                <p>Handcrafted by ME&nbsp;/</p>
-                <p>Powered by ReactJS</p>
+                <p>Handcrafted by Myself &nbsp;/</p>
+                <p>ReactJS version inspired by Nithin Charles’s Angular portfolio.  &nbsp;/</p>
               </div>
             </div>
           </div>
@@ -39,7 +39,7 @@ const ContactSection = ({id}) => {
       <div className="footer">
         <div className="personal-link-section">
           <div className="capsule-wrapper">
-            <a href="https://github.com/nithin-charles" target="_blank">
+            <a href="https://github.com/RevanthMohanraj" target="_blank">
               <div className="capsule">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +56,7 @@ const ContactSection = ({id}) => {
           </div>
           <div className="capsule-wrapper">
                 <a
-                  href="https://www.linkedin.com/in/nithin-charles-bb95b0171/"
+                  href="https://www.linkedin.com/in/revanthmohanraj/"
                   target="_blank"
                 >
               <div className="capsule">
@@ -78,7 +78,7 @@ const ContactSection = ({id}) => {
           </div>
           <div className="capsule-wrapper">
             <a
-              href="mailto:s.nithincharles@gmail.com?subject=Subject%20Text&body=Body%20Text"
+              href="mailto:revanthmohanraj2000@gmail.com?subject=Subject%20Text&body=Body%20Text"
               target="_blank"
             >
               <div className="email capsule">
@@ -105,7 +105,7 @@ const ContactSection = ({id}) => {
           </div>
           <div className="capsule-wrapper">
             <a
-              href="https://www.instagram.com/its_me_charlez?igsh=MTNudDk2Njc3aTN5cA=="
+              href="https://www.instagram.com/revanth_mohanraj/"
               target="_blank"
             >
               <div className="capsule">

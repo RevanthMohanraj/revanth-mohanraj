@@ -10,7 +10,7 @@ const NavBar = ({ bgColor = "black", currentPage = "about", onNavClick }) => {
     >
       <div className="icon-wrapper">
         <a
-          href="mailto:s.nithincharles@gmail.com?subject=Subject%20Text&body=Body%20Text"
+          href="mailto:revanthmohanraj2000@gmail.com?subject=Subject%20Text&body=Body%20Text"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -28,7 +28,7 @@ const NavBar = ({ bgColor = "black", currentPage = "about", onNavClick }) => {
 
       <div className="icon-wrapper">
         <a
-          href="https://www.linkedin.com/in/nithin-charles-bb95b0171/"
+          href="https://www.linkedin.com/in/revanthmohanraj/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -45,7 +45,7 @@ const NavBar = ({ bgColor = "black", currentPage = "about", onNavClick }) => {
 
       <div className="icon-wrapper">
         <a
-          href="https://www.instagram.com/its_me_charlez?igsh=MTNudDk2Njc3aTN5cA=="
+          href="https://www.instagram.com/revanth_mohanraj/"
           target="_blank"
           rel="noopener noreferrer"
         >
