@@ -29,8 +29,9 @@ const ContactSection = ({id}) => {
               <div className="site-header">Site</div>
               <div className="credit-section">
                 <p>Handcrafted by Myself &nbsp;/</p>
-                <p>ReactJS version inspired by Nithin Charles’s Angular portfolio.  &nbsp;/</p>
-              </div>
+                <p style={{ lineHeight: '1.2', margin: 0 }}>
+                  ReactJS version inspired by Nithin-Charles’s Angular portfolio. &nbsp;/
+                </p>              </div>
             </div>
           </div>
         </div>
