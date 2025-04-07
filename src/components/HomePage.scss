@@ -1,0 +1,28 @@
+.content-container {
+    width: 98%;
+    background-color: transparent;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  
+    .content-wrapper {
+      display: flex;
+      flex-direction: column;
+      width: 80%;
+      font-family: "IBM Plex Mono", "Menlo", "DejaVu Sans Mono",
+        "Bitstream Vera Sans Mono", Courier, monospace;
+      font-size: 2rem;
+  
+      .info {
+        padding-top: 1rem;
+        font-size: 1rem;
+      }
+    }
+  }
+
+  

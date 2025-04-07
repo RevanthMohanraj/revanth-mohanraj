@@ -1,0 +1,43 @@
+.main-container {
+  width: 100%;
+  display: flex;
+
+  &.black {
+    background-color: black;
+    transition: background-color ease-in 0.5s;
+  }
+
+  &.white {
+    background-color: white;
+    transition: background-color ease-in 0.5s;
+  }
+
+  .NavBar {
+    width: 10%;
+
+    &.hide {
+      width: 0;
+      display: none;
+    }
+  }
+
+  .content-list {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+
+    &.expand {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .NavBar {
+    width: 25% !important;
+
+    &.isMobile {
+      width: 0 !important;
+    }
+  }
+}
