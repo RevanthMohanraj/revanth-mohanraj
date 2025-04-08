@@ -91,7 +91,7 @@ const ContactSection = ({id}) => {
                   y="0"
                   version="1.1"
                   viewBox="0 0 29 29"
-                  xml:space="preserve"
+                  xmlSpace="preserve"
                 >
                   <path
                     d="M2 7.42v14.172l7.086-7.086zM3.408 6l8.971 8.971c1.133 1.133 3.109 1.133 4.242 0L25.592 6H3.408z"
